@@ -35,6 +35,7 @@ STEP 3:Taking care of missing data<BR>
 STEP 4:Encoding categorical data<BR>
 STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
+</br>
 
 ##  PROGRAM:
 ```
@@ -80,41 +81,53 @@ print(len(X_train))
 print(X_test)
 print(len(X_test))
 ```
+</br>
 
 ## OUTPUT:
 
 ### Reading The Dataset
 ![EX-1-NN](nn1.png)
+</br>
 
 ### Finding Missing values
 ![EX-1-NN](nn2.png)
+</br>
 
 ### Checking Duplicates
 ![EX-1-NN](nn3.png)
+</br>
 
 ### Describing a column
 ![EX-1-NN](nn4.png)
+</br>
 
 ### Info
 ![EX-1-NN](nn5.png)
+</br>
 
 ### Dropping columns
 ![EX-1-NN](nn6.png)
+</br>
 
 ### Normalizing the data
 ![EX-1-NN](nn7.png)
+</br>
 
 ### Values of X
 ![EX-1-NN](nn8.png)
+</br>
 
 ### Values of Y
 ![EX-1-NN](nn9.png)
+</br>
 
 ### X_train
 ![EX-1-NN](nn10.png)
+</br>
 
 ### X_test
 ![EX-1-NN](nn11.png)
+</br>
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python using a data set downloaded from Kaggle.
